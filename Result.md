@@ -1,5 +1,5 @@
 # Итог
 ### Диаграмма Ганта
-![Диаграмма Ганта](Diagrams/Diagram1.png)
+![Диаграмма Ганта](Diagrams/Diagram3.png)
 ### Agile доска
-![Agile доска](Diagrams/Diagram2.jpg)
+![Agile доска](Diagrams/Diagram4.png)
