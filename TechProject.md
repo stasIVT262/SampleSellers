@@ -32,3 +32,11 @@
 ![Диаграмма 3](Diagrams/UMLDiagram3.png)
 
 Рис. 10 - Диаграмма классов
+
+### Диаграмма Ганта
+![Диаграмма Ганта](Diagrams/Diagram3.png)
+Рис. 11 - Диаграмма Ганта
+
+### Agile доска
+![Agile доска](Diagrams/Diagram4.png)
+Рис. 12 - Agile доска
