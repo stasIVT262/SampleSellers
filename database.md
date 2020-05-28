@@ -1,4 +1,6 @@
-User:
+#База данных
+
+**User:**
 -id;
 -nickname;
 -password;
@@ -7,14 +9,14 @@ User:
 -cash;
 -reputation.
 
-Sample:
+**Sample:**
 -id;
 -name;
 -sound;
 -icon;
 -reputation.
 
-Article:
+**Article:**
 -id;
 -name;
 -create date;
