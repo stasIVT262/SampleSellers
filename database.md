@@ -1,22 +1,43 @@
-User:
+# База данных
+
+**User:**
+
 -id;
+
 -nickname;
+
 -password;
+
 -email;
+
 -avatar;
+
 -cash;
+
 -reputation.
 
-Sample:
+
+**Sample:**
+
 -id;
+
 -name;
+
 -sound;
+
 -icon;
+
 -reputation.
 
-Article:
+
+**Article:**
+
 -id;
+
 -name;
+
 -create date;
+
 -text;
+
 -reputation.
